@@ -1,8 +1,9 @@
 {
     "HELLO": "Hey, Nice to meet you.",
     "HALLO": "Hallo, leuk dat u er bent.",
-    "WAT NU*": "Goede vraag. Probeer eens 'help' of een ander trefwoord.",
-    "HELP": "Goed. Ik begrijp hoofdzakelijk losse trefwoorden om het simpel te houden (= Probeer eens trefwoorden als: werk, ervaring, twitter",
+    "WAT NU?": "Goede vraag. Probeer eens 'help' of een ander trefwoord.",
+    "HELP": "Goed. Ik begrijp hoofdzakelijk losse trefwoorden om het simpel te houden (= Probeer eens trefwoorden als: werk, ervaring, ,email, twitter",
+    "HULP": "Goed. Ik begrijp hoofdzakelijk losse trefwoorden om het simpel te houden (= Probeer eens trefwoorden als: werk, ervaring, twitter",
     "TWITTER": "Let's tweet @ArneKuilman so he knows you're talking to his bot. Here's a tweet that's ready to go: http://bit.ly/hiarnebot",
     "LINKEDIN": "Leuk dat u mijn LinkedIn wil bekijken. %[Check LinkedIn](https://nl.linkedin.com/in/arnekuilman)",
     "LEEFTIJD": "Bots hebben natuurlijk geen leeftijd, maar de trend brak door in 2016. Als u Arne bedoelt. Hij is 42.",
